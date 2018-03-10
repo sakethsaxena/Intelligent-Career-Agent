@@ -6,6 +6,7 @@ Intelligent Career Agent
 ![..](https://i.imgur.com/QIGOoLy.png?1)
 
 This project was created towards completion of course requirements for CS265-F17 - Topics in Artificial Intelligence
+
 The Intelligent Career Agent takes user input for keywords to search for
 scrapes ieee.org, acm.org and indeed.com for related jobs and gives a list of the closest matches 
 using KNN to give the K closest sites and K means to cluster the similar sites together within the data.
